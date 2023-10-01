@@ -11,4 +11,4 @@ client.setMaxListeners(50); require('events').defaultMaxListeners = 50;
 
 require("./handler")(client);
 
-client.login(client.config.token);
+client.login(process.env.token);
