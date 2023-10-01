@@ -1,0 +1,8 @@
+{
+    "token": "",
+    "mongooseConnectionString": "mongodb+srv://fakebb232:YADAV@bot.cndtqhr.mongodb.net/?retryWrites=true&w=majority",
+    "fail": "<a:wrong:1154103483096645792>",
+    "success": "<a:GreenTick:1157917939509510214>",
+    "thumbsup": "<a:uptime:1157918765456039937>",
+    "thumbsdown": "<a:downtime:1157918921156988928>"
+}
